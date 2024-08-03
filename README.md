@@ -11,5 +11,5 @@ Instructions
 5. Run 'terraform apply'
 6. Enter the same key entered in #4
 7. Enter a value : yes
-*8. Make sure to delete resources 
+8. Make sure to delete resources 
     'terraform destroy'
